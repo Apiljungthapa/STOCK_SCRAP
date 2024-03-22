@@ -1,2 +1,2 @@
 # STOCK_SCRAP
-This is the web scrabbing oif stock market data
+This is the web scrabbing for stock market data
